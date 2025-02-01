@@ -1,9 +1,16 @@
 Artykuły:
 
-http://bottega.com.pl/pdf/materialy/sdj-ddd.pdf - Sławomir Sobótka o DDD (wprowadzenie)
-http://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf - Sławomir Sobótka o DDD cz1.
-http://bottega.com.pl/pdf/materialy/ddd/ddd2.pdf - Sławomir Sobótka o DDD cz2.
-http://bottega.com.pl/pdf/materialy/ddd/ddd3.pdf - Sławomir Sobótka o DDD cz3.
-http://bottega.com.pl/pdf/materialy/ddd/ddd4a.pdf - Sławomir Sobótka o DDD (CQRS (stos Write))
-http://bottega.com.pl/pdf/materialy/ddd/ddd4b.pdf - Sławomir Sobótka o DDD (CQRS (stos Read))
-http://bottega.com.pl/pdf/materialy/ddd/ddd5.pdf - Sławomir Sobótka o DDD (testowanie)
+http://bottega.com.pl/pdf/materialy/sdj-ddd.pdf - Sławomir Sobótka "Domain Driven Design - Sposób na projektowanie złożonych modeli biznesowych"
+
+Seria artykułów autorstwa Sławomira Sobótki "Domain Driven Design krok po kroku"
+http://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf - Sławomir Sobótka "Część I: Podstawowe Building Blocks DDD"
+http://bottega.com.pl/pdf/materialy/ddd/ddd2.pdf - Sławomir Sobótka "Część II: Zaawansowane modelowanie DDD - techniki strategiczne: konteksty i architektura zdarzeniowa"
+http://bottega.com.pl/pdf/materialy/ddd/ddd3.pdf - Sławomir Sobótka "Część III: Szczegóły implementacji aplikacji wykorzystującej DDD na platformie Java - Spring Framework i Hibernate)
+http://bottega.com.pl/pdf/materialy/ddd/ddd4a.pdf - Sławomir Sobótka "Część IVa: Skalowalne systemy w kontekście DDD - architektura Command-query Responsibility Segregation (stos Write)
+http://bottega.com.pl/pdf/materialy/ddd/ddd4b.pdf - Sławomir Sobótka "Część IVb: Skalowalne systemy w kontekście DDD - architektura Command-query Responsibility Segregation (stos Read)
+http://bottega.com.pl/pdf/materialy/ddd/ddd5.pdf - Sławomir Sobótka "Część V: Kompendium testowania aplikacji opartej o DDD - problemy, strategie, taktyki i techniki"
+
+Materiały youtube:
+https://www.youtube.com/watch?v=AU8oy4L3EdU - JavaSenior "Domain-Driven Design (DDD) Taktyczne w 8 min!"
+https://www.youtube.com/watch?v=kUvugLIsivg - JavaSenior "Czym jest ten Agregat z Domain-Driven Design (DDD)?!"
+https://www.youtube.com/watch?v=N4-UOuMFmEQ - JavaSenior "Anemic “Domain” Model vs Rich Domain Model"
