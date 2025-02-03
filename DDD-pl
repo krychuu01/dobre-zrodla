@@ -1,14 +1,9 @@
-Artykuły:
-
-http://bottega.com.pl/pdf/materialy/sdj-ddd.pdf - Sławomir Sobótka "Domain Driven Design - Sposób na projektowanie złożonych modeli biznesowych"
-
-Seria artykułów autorstwa Sławomira Sobótki "Domain Driven Design krok po kroku"
-http://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf - Sławomir Sobótka "Część I: Podstawowe Building Blocks DDD"
-http://bottega.com.pl/pdf/materialy/ddd/ddd2.pdf - Sławomir Sobótka "Część II: Zaawansowane modelowanie DDD - techniki strategiczne: konteksty i architektura zdarzeniowa"
-http://bottega.com.pl/pdf/materialy/ddd/ddd3.pdf - Sławomir Sobótka "Część III: Szczegóły implementacji aplikacji wykorzystującej DDD na platformie Java - Spring Framework i Hibernate)
-http://bottega.com.pl/pdf/materialy/ddd/ddd4a.pdf - Sławomir Sobótka "Część IVa: Skalowalne systemy w kontekście DDD - architektura Command-query Responsibility Segregation (stos Write)
-http://bottega.com.pl/pdf/materialy/ddd/ddd4b.pdf - Sławomir Sobótka "Część IVb: Skalowalne systemy w kontekście DDD - architektura Command-query Responsibility Segregation (stos Read)
-http://bottega.com.pl/pdf/materialy/ddd/ddd5.pdf - Sławomir Sobótka "Część V: Kompendium testowania aplikacji opartej o DDD - problemy, strategie, taktyki i techniki"
+https://nakodach.pl/domain-driven-design/heroes/boundedcontext-modelowanie-modularyzacja-produkt/ - Mateusz Nowak
+"Grupuj w obiekty, tylko te dane, które zmieniają się razem i ich spójność natychmiastowa jest konieczna 
+do spełnienia reguł biznesowych — czyli decydują czy jakaś operacja jest możliwa i czy wynikowe zdarzenie ma prawo zaistnieć. 
+Dzięki temu otrzymasz bardziej wyspecjalizowane modele o niższej złożoności. 
+Nie spowodujesz też przez optimistic locking sytuacji gdzie np. zmiana nazwy pokoju, 
+wywłaszcza aktualizację z nową rezerwacją -> a tym samym Twój biznes traci pieniądze."
 
 Materiały youtube:
 https://www.youtube.com/watch?v=AU8oy4L3EdU - JavaSenior "Domain-Driven Design (DDD) Taktyczne w 8 min!"
